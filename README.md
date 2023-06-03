@@ -11,7 +11,7 @@ After the script finishes, you can open a new terminal and use the `spy` command
 
 - [ ] Make the script compatible with macOS and Windows operating systems.
 - [ ] Implement advanced error handling to gracefully handle potential issues during installation.
-- [x] Add user input functionality to allow customization of the environment name and alias.
+- [ ] Add user input functionality to allow customization of the environment name and alias.
 - [ ] Provide preset default values for the environment name and alias, allowing users to press enter to accept the defaults.
 - [ ] Test the script thoroughly on both macOS and Windows platforms to ensure compatibility and functionality.
 - [ ] Document any required dependencies or additional setup steps in the README file.
