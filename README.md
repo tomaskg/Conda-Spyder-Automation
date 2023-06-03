@@ -2,7 +2,7 @@
 
 ⚠️ **Please note that this script currently only supports Linux.**
 
-Work is currently underway to make the script compatible with macOS and Windows operating systems. Once the script is updated to support additional platforms, instructions for running it on macOS and Windows will be provided.
+Work is currently underway to make scripts that are compatible with macOS and Windows operating systems. Once complete, instructions for running it on macOS and Windows will be provided.
 
 In the meantime, if you have access to a Linux machine, you can still use this script to install and set up the environment with Spyder.
 
